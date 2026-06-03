@@ -10,7 +10,7 @@ The dashboard enables HR teams and business leaders to gain actionable insights 
 
 ## 🚀 Live Dashboard
 
-🔗 [View Interactive Dashboard] ([https://app.powerbi.com/view?r=eyJrIjoiNTJjOTBlNTMtMzQ2OS00ZTYyLWI5MTUtMDY4ODNhYWZmMGU2IiwidCI6ImEyMGQ5YzhhLTIzNDMtNDdhZi05Y2FhLWQwZDQ1MDhlZGRlMSIsImMiOjEwfQ%3D%3D])
+🔗 [![Power BI Dashboard](https://img.shields.io/badge/Power%20BI-Live%20Dashboard-yellow?logo=powerbi)](https://app.powerbi.com/view?r=YOUR_LINK)
 
 
 
